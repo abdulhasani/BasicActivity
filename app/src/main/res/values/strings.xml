@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidConnectActivity</string>
+    <string name="title_activity">Activity Two</string>
+</resources>
