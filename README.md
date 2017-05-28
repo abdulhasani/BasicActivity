@@ -1,6 +1,6 @@
 # BasicActivity
 belajar android <br/>
-Refrensi web
+Referensi web
 
 * https://developer.android.com/guide/components/fundamentals.html
 * http://www.okedroid.com
